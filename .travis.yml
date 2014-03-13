@@ -9,3 +9,8 @@ jdk:
 
 install:
   - sudo apt-get install rpm
+  
+notifications:
+    email:
+        - crvidya@ymail.com
+        - vidyac.raghav@gmail.com
